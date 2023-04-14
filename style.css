@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(201, 190, 190);
+}
+h1{
+    font-size: 16px;
+}
+p{
+    font-size: 10px;
+}
+
+.container{
+    display: flex;
+}
+.dice{
+    padding-left: 10px;
+    padding-right: 10px;
+}
